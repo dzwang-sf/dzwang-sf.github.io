@@ -1,6 +1,5 @@
-# dzwang-sf.github.io
 Personal Information
-# 王老师的教学主页
+		# 王老师的教学主页
 
 欢迎来到我的个人主页！我是一名致力于启发学生思维的物理教师。
 
