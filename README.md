@@ -10,7 +10,7 @@ Welcome to The Homepage of Dr. Dongzhen Wang!
 ## Reasearch Fields
 - [Signal and Information Processing: Radar Signals, Image Signals, etc]
 - [Robot Rrajectory Planning: UAV Trajectory Planning, Optimization, etc]
-- [Unmanned Aerial Vehicle Control: Adaptive Control, Non-parametic control, etc]
+- [Unmanned Aerial Vehicle Control: Adaptive Control, Non-parametic Control, etc]
 ### Recruiting 1-2 students per year for academic master's degree and engineering master. [Welcome students with good thinking ability, self-motivation, and goals to contact me!]
 
 ## Recent Publications：
