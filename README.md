@@ -1,22 +1,22 @@
-欢迎来到我的个人主页！
+Welcome to my personal homepage!
 
 ---
 
 
-## 我的课程
-- [本科一年级：人工智能及C语言程序设计]
-- [本科三年级：电子系统综合设计]
-- [本科三年级：电子测量与仪器 (选修课)]
+## Undertaken Courses
+- [Undergraduate: Artificial Intelligence and C Language Programming]
+- [Undergraduate: Comprehensive Design of Electronic Systems]
+- [Undergraduate: Electronic Measurement and Instruments (Elective Course)]
 
-## 科研方向
-- [信号与信息处理：雷达信号、图像信号等]
-- [机器人航迹规划：无人机航迹规划算法、优化算法等]
-- [无人飞行器控制：自适应控制、无参化控制等]
+## Reasearch Fields
+- [Signal and Information Processing: Radar Signals, Image Signals, etc]
+- [Robot Rrajectory Planning: UAV trajectory planning algorithm, optimization algorithm, etc]
+- [Unmanned Aerial Vehicle Control: adaptive control, non-parameter control, etc]
 - 
-## 招学硕与专硕 1~2人/年.
-- [欢迎思维能力好，有态度，有目标的同学联系我。]
+## Recruiting 1-2 students per year for academic master's degree and engineering master.
+- [Welcome students with good thinking ability, attitude, and goals to contact me.]
 
 
-## 联系方式
-- 邮箱：wdongn at yzu.edu.cn
-- 办公地点：博学楼 2213
+## contact information
+- Email：wdongn at yzu.edu.cn
+- Location：博学楼 2213
