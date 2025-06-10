@@ -20,7 +20,7 @@ Welcome to my personal homepage!
 - [2] 王东振,张岳,赵宇,等.基于RRT-Dubins的无人机航迹优化方法[J].兵工学报,2024,45(08):2761-2773.
 
 ## Projects:
-- 1, Research on Key Technologies of Model Regression and UAV Trajectory Optimization for Non cooperative Target Localization 省级, 2023-2026, 主持
+- Research on Key Technologies of Model Regression and UAV Trajectory Optimization for Non cooperative Target Localization 省级, 2023-2026, 主持
 
 ## Contact Information
 - Email：wdongn at yzu.edu.cn
