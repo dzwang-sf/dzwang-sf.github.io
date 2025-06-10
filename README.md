@@ -12,7 +12,7 @@ Welcome to my personal homepage!
 - [Signal and Information Processing: Radar Signals, Image Signals, etc]
 - [Robot Rrajectory Planning: UAV trajectory planning, optimization, etc]
 - [Unmanned Aerial Vehicle Control: adaptive control, non-parameter control, etc]
-- 
+
 ## Recruiting 1-2 students per year for academic master's degree and engineering master.
 - [Welcome students with good thinking ability, attitude, and goals to contact me.]
 ## Recent Publications：
