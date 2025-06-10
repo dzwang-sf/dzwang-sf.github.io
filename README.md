@@ -11,7 +11,7 @@ Welcome to The Homepage of Dr. Dongzhen Wang!
 - [Signal and Information Processing: Radar Signals, Image Signals, etc]
 - [Robot Rrajectory Planning: UAV Trajectory Planning, Optimization, etc]
 - [Unmanned Aerial Vehicle Control: Adaptive Control, Non-parametic Control, etc]
-### Recruiting 1-2 students per year for academic master's degree and engineering master. [Welcome students with good thinking ability, self-motivation, and goals to contact me!]
+### Recruiting 1-2 students per year for academic master and engineering master. [Welcome students with good thinking ability, self-motivation, and goals to contact me!]
 
 ## Recent Publications：
 - [1] D. Wang, Z. Zhang, Y. Zhao and C. Xu, "Target Tracking With Circumnavigation Scheme Using Discrete Bearing and Control Input," in IEEE Transactions on Aerospace and Electronic Systems, vol. 60, no. 4, pp. 4699-4714, Aug. 2024, doi: 10.1109/TAES.2024.3379491.
