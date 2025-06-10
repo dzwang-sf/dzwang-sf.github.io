@@ -10,7 +10,7 @@ Welcome to my personal homepage!
 
 ## Reasearch Fields
 - [Signal and Information Processing: Radar Signals, Image Signals, etc]
-- [Robot Rrajectory Planning: UAV trajectory planning algorithm, optimization algorithm, etc]
+- [Robot Rrajectory Planning: UAV trajectory planning, optimization, etc]
 - [Unmanned Aerial Vehicle Control: adaptive control, non-parameter control, etc]
 - 
 ## Recruiting 1-2 students per year for academic master's degree and engineering master.
