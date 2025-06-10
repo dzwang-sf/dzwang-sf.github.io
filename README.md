@@ -21,5 +21,5 @@ Welcome to The Homepage of Dr. Dongzhen Wang!
 - Research on Key Technologies of Model Regression and UAV Trajectory Optimization for Non cooperative Target Localization 省级, 2023-2026, 主持
 
 ## Contact Information
-- Email：wdongn at yzu.edu.cn
+- Email：wdongn[at]yzu[dot]edu[dot]cn
 - Location：博学楼 2213
