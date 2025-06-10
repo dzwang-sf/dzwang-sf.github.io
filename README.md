@@ -17,6 +17,6 @@ Welcome to my personal homepage!
 - [Welcome students with good thinking ability, attitude, and goals to contact me.]
 
 
-## contact information
+## Contact Information
 - Email：wdongn at yzu.edu.cn
 - Location：博学楼 2213
