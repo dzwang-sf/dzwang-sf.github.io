@@ -15,7 +15,7 @@ Welcome to The Homepage of Dr. Dongzhen Wang!
 
 ## Recent Publications：
 - [1] D. Wang, Z. Zhang, Y. Zhao and C. Xu, "Target Tracking With Circumnavigation Scheme Using Discrete Bearing and Control Input," in IEEE Transactions on Aerospace and Electronic Systems, vol. 60, no. 4, pp. 4699-4714, Aug. 2024, doi: 10.1109/TAES.2024.3379491.
-- [2] 王东振,张岳,赵宇,等.基于RRT-Dubins的无人机航迹优化方法[J].兵工学报,2024,45(08):2761-2773.
+- [2] Wang Dongzhen, Zhang Yue, Zhao Yu, etc UAV trajectory optimization method based on RRT Dubins [J].Acta Armamentarii,2024,45(08):2761-2773. (in Chinese)
 
 ## Projects:
 - Research on Key Technologies of Model Regression and UAV Trajectory Optimization for Non cooperative Target Localization 省级, 2023-2026, 主持
